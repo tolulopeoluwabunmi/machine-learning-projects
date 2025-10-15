@@ -4,8 +4,8 @@
 
 ## 🧩 Dataset Overview
 - 150 samples, 4 numerical features, 3 classes (Setosa, Versicolor, Virginica)
-- Perfectly balanced dataset — no missing values
-- Source: UCI Machine Learning Repository
+- Perfectly balanced dataset - no missing values
+- Source: Kaggle
 
 ## ⚙️ Models Used
 - K-Nearest Neighbors (KNN)
