@@ -23,7 +23,7 @@
 
 ## 🧮 Techniques
 - Data scaling with `StandardScaler`
-- Train–test split (60/40 stratified)
+- Train–test split (60/40)
 - Performance metrics: Accuracy, Confusion Matrix, F1-score
 
 ## 📁 Files in this Folder
